@@ -71,6 +71,7 @@ A Clean Architecture é um conjunto de princípios e práticas para estruturar o
 
 ### Estrutura do Projeto
 
+```plain
 src/
 │
 ├── application/
@@ -104,6 +105,7 @@ src/
 ├── leakyBucket.spec.ts
 ├── leakyBucketLoad.spec.ts
 └── tenantService.spec.ts
+```
 
 ### Executando o Projeto
 
